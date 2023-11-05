@@ -21,7 +21,8 @@ image:
 
 - [Pavlov VR](https://store.steampowered.com/app/555160/Pavlov_VR/) 게임의 전용서버를 리눅스서버에 셋업하는 과정 정리
 
-- [공식 위키문서](http://wiki.pavlov-vr.com/index.php?title=Dedicated_server)에 필요한 내용이 다 있지만, 설치과정순이 아닌 기능순으로 서술되어있어 설치과정 위주로 따로 정리함
+- ~~공식 위키문서~~에 필요한 내용이 다 있지만, 설치과정순이 아닌 기능순으로 서술되어있어 설치과정 위주로 따로 정리함
+  - 수정, 문서링크는 http://wiki.pavlov-vr.com/index.php?title=Dedicated_server 였는데 현재는 죽어있는 상황 (2023-11-05 기준)
 
 ## Intro
 
@@ -51,7 +52,8 @@ Pavlov VR은 카운터 스트라이크와 같은 FPS 게임을 VR 환경으로 �
 
 ## 전용서버 설치
 
-매우 세세하게 잘 정리된 [문서](http://wiki.pavlov-vr.com/index.php?title=Dedicated_server)를 그대로 따라하면 된다. 하드웨어 스펙도 적혀있고, 친절하게 우분투와 로키 리눅스에서 잘 실행된다고도 적혀있다.
+매우 세세하게 잘 정리된 ~~문서~~를 그대로 따라하면 된다. 하드웨어 스펙도 적혀있고, 친절하게 우분투와 로키 리눅스에서 잘 실행된다고도 적혀있다.
+- 수정, 문서링크는 http://wiki.pavlov-vr.com/index.php?title=Dedicated_server 였는데 죽어있음... (2023-11-05 기준)
 
 > 유의: 메뉴얼에 적혀있는 설치경로나 계정명은 그냥 그대로 쓰는게 정신건강에 편하다. bash 스크립트 등에 계정명과 설치경로가 하드코딩 되어있다.
 {: .prompt-danger }
