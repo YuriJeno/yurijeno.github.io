@@ -13,7 +13,7 @@ image:
   path: Beelinik-MINI-S.jpg
   width: 400
   height: 250
-  # alt: Responsive rendering of Chirpy theme on multiple devices.
+  alt: Image of Beelink MINI S
 ---
 
 윈도우 작업 스케줄러를 다루는 글을 별로 쓰고 싶지 않아서 오래걸렸다...; 아래를 보면 왜 그런지 알게된다.

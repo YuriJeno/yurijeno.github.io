@@ -13,7 +13,7 @@ image:
   path: Beelinik-MINI-S.jpg
   width: 400
   height: 250
-  # alt: Responsive rendering of Chirpy theme on multiple devices.
+  alt: Image of Beelink MINI S
 ---
 
 ## 배경, 제품정보

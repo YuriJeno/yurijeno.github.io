@@ -13,7 +13,7 @@ image:
   path: Beelinik-MINI-S.jpg
   width: 400
   height: 250
-  # alt: Responsive rendering of Chirpy theme on multiple devices.
+  alt: Image of Beelink MINI S
 ---
 
 미니PC(Beelink MINI S N5059) 제품을 한글 윈도우에서 젠트레이더 오토스타터를 자동 실행하도록 셋업하는 과정을 정리한 내용 요약. 시리즈는 다음과 같이 총 4편으로 작성하였음

@@ -13,7 +13,7 @@ image:
   path: /assets/img/post/2022-10-16-Pavlov-VR-Dedicated-Server-Setup/header.jpg
   width: 800
   height: 500
-  # alt: Responsive rendering of Chirpy theme on multiple devices.
+  alt: Game Banner
 ---
 
 
